@@ -14,7 +14,7 @@ Trying no fast forward
 
 ## 0.1.1
 
-grr
+I think I finally have git fast forward figured out...
 
 ## 0.1
 
