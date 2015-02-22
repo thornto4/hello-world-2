@@ -8,6 +8,8 @@ Stuff
 
 Stuff
 
+Trying no fast forward
+
 # Changelog
 
 ## 0.1.1
